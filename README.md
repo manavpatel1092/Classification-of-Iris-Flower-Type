@@ -11,6 +11,7 @@ The Iris Dataset has samples of three different types of iris flowers (Iris seto
 The dataset can be found on UCI repository https://archive.ics.uci.edu/ml/datasets/iris.
 The dataset can also be accessed directly through the python notebook by running the following code:
 ```
+import sklearn
 from sklearn import datasets
 iris = datasets.load_iris()
 ```
