@@ -1,4 +1,4 @@
-# Iris-Flower-Classification using MLP 
+# Iris-Flower-Type-Classification using MLP 
 
 Overview of dataset:
 
